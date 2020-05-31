@@ -11,7 +11,7 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 
 자신의 username이 적힌 그림 파일이 하단에 보여야 합니다.
 
-![task2_rany.png](../resources/task2_rany.png)
+![task2_rany](https://user-images.githubusercontent.com/66084735/83354774-d3f93280-a395-11ea-9720-8fd28ae4d44f.png)
 
 ## 응원의 말
 

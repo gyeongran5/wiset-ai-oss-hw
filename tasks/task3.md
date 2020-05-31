@@ -20,7 +20,7 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 
 ### 정답
 
-commit 75928a98e18479b22b18888a33d36379f17b43c1
+commit 75928a98e18479b22b18888a33d36379f17b43c1\n
 delayBeforeBullet 를 크게  
 
 ### 힌트
